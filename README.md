@@ -1,4 +1,4 @@
-Loan Approval Prediction
+###Loan Approval Prediction
 This repository contains machine learning models built using Python to predict loan approval status based on applicant data. It includes implementations of Decision Tree, Logistic Regression, and Random Forest classifiers.
 
 📁 Files Included
