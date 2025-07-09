@@ -1,0 +1,101 @@
+loan_id,income_annum,loan_amount,loan_term_months,cibil_score,education,self_employed,loan_status
+1,925207,517094,36,751,Graduate,No,Approved
+2,169140,173283,36,611,Graduate,No,Rejected
+3,1217392,330965,48,807,Graduate,Yes,Approved
+4,793746,347764,48,552,Graduate,Yes,Rejected
+5,476860,996771,60,804,Not Graduate,Yes,Approved
+6,396346,754639,36,417,Graduate,No,Rejected
+7,1446740,674100,24,671,Not Graduate,Yes,Approved
+8,237520,289365,12,770,Graduate,No,Approved
+9,147042,65708,60,485,Graduate,No,Approved
+10,1174790,298268,24,649,Not Graduate,No,Approved
+11,125353,796579,48,894,Graduate,No,Approved
+12,1287074,815836,12,536,Not Graduate,No,Approved
+13,589193,740150,48,303,Not Graduate,Yes,Approved
+14,1370645,600023,36,465,Not Graduate,Yes,Approved
+15,825082,528388,24,691,Not Graduate,Yes,Approved
+16,191204,968096,12,378,Not Graduate,Yes,Rejected
+17,1206537,924909,12,823,Not Graduate,No,Rejected
+18,142506,526160,48,360,Graduate,No,Rejected
+19,448172,201255,60,403,Not Graduate,No,Rejected
+20,274305,933407,24,429,Graduate,Yes,Rejected
+21,1288768,639564,12,584,Graduate,Yes,Approved
+22,945178,569811,12,748,Not Graduate,No,Rejected
+23,1485370,349581,36,885,Not Graduate,Yes,Rejected
+24,1476355,953491,24,695,Not Graduate,Yes,Approved
+25,811897,192480,24,776,Graduate,Yes,Rejected
+26,823250,322240,12,673,Not Graduate,No,Rejected
+27,356344,92441,24,739,Not Graduate,Yes,Approved
+28,558396,156068,24,315,Graduate,No,Rejected
+29,130105,82884,12,431,Not Graduate,Yes,Rejected
+30,584248,501301,12,406,Graduate,No,Approved
+31,1483975,614991,48,772,Not Graduate,Yes,Approved
+32,392504,673416,48,513,Graduate,Yes,Approved
+33,767282,958216,48,584,Not Graduate,No,Approved
+34,558435,400768,48,890,Graduate,No,Rejected
+35,737100,989153,24,567,Not Graduate,No,Rejected
+36,148851,895685,36,581,Not Graduate,Yes,Rejected
+37,1492640,217433,12,659,Graduate,No,Approved
+38,159530,497678,12,718,Not Graduate,Yes,Rejected
+39,612707,338847,60,557,Not Graduate,No,Approved
+40,597371,173622,36,828,Graduate,Yes,Rejected
+41,1064451,368670,36,845,Graduate,Yes,Approved
+42,414259,206065,12,333,Not Graduate,Yes,Rejected
+43,682818,502484,36,472,Graduate,No,Rejected
+44,1150674,77536,60,786,Not Graduate,Yes,Approved
+45,565579,740404,24,628,Not Graduate,No,Approved
+46,1404704,379543,48,505,Graduate,Yes,Approved
+47,1449092,368782,60,406,Graduate,Yes,Rejected
+48,440073,557671,48,895,Not Graduate,Yes,Rejected
+49,1320290,830654,12,716,Graduate,Yes,Approved
+50,192311,385879,24,624,Not Graduate,No,Approved
+51,1054245,220493,60,715,Graduate,Yes,Approved
+52,1049286,353894,36,364,Not Graduate,Yes,Approved
+53,1471905,797678,24,587,Not Graduate,No,Rejected
+54,1350566,502342,60,379,Not Graduate,Yes,Approved
+55,407531,412064,24,383,Not Graduate,No,Approved
+56,1211410,370667,12,805,Not Graduate,No,Rejected
+57,617461,328063,36,696,Not Graduate,Yes,Rejected
+58,586782,365887,48,310,Not Graduate,Yes,Approved
+59,1232914,607682,48,800,Graduate,No,Rejected
+60,1115603,195931,48,370,Graduate,No,Approved
+61,1438626,236327,60,321,Graduate,No,Rejected
+62,697324,301726,24,636,Not Graduate,No,Rejected
+63,1251645,127799,36,620,Graduate,No,Approved
+64,875689,206446,36,429,Graduate,No,Rejected
+65,1419539,641962,60,663,Graduate,No,Approved
+66,1021989,867442,36,766,Graduate,No,Approved
+67,1499412,535942,36,638,Not Graduate,Yes,Rejected
+68,790411,273057,24,706,Not Graduate,No,Rejected
+69,1005409,990707,24,840,Graduate,Yes,Approved
+70,1213899,565143,24,627,Not Graduate,Yes,Rejected
+71,590063,614077,60,583,Not Graduate,No,Rejected
+72,1290974,295563,60,516,Not Graduate,No,Rejected
+73,1368300,62912,60,613,Not Graduate,Yes,Approved
+74,1066776,87285,36,516,Not Graduate,Yes,Rejected
+75,147449,735124,48,569,Graduate,No,Rejected
+76,452781,779525,36,378,Not Graduate,No,Approved
+77,214910,601949,24,883,Graduate,No,Rejected
+78,660732,629685,48,600,Not Graduate,No,Approved
+79,939916,865891,12,535,Graduate,Yes,Approved
+80,1224457,705211,48,545,Graduate,Yes,Approved
+81,242549,356440,24,391,Not Graduate,Yes,Approved
+82,1062054,319152,24,344,Graduate,Yes,Rejected
+83,1259780,199201,24,899,Not Graduate,Yes,Approved
+84,1365200,79893,24,889,Graduate,Yes,Approved
+85,1483582,470220,12,810,Graduate,Yes,Approved
+86,1130287,254900,48,713,Not Graduate,No,Rejected
+87,1260127,510161,12,410,Graduate,No,Approved
+88,1356933,804429,36,840,Not Graduate,No,Approved
+89,930501,792557,48,349,Graduate,No,Approved
+90,1115355,775893,36,643,Not Graduate,Yes,Approved
+91,967953,992032,36,869,Graduate,Yes,Approved
+92,243455,758838,36,341,Graduate,No,Approved
+93,278528,357704,24,774,Not Graduate,Yes,Approved
+94,790672,776952,48,494,Not Graduate,Yes,Approved
+95,1351616,511462,60,573,Graduate,Yes,Approved
+96,1443550,659310,48,320,Not Graduate,Yes,Approved
+97,520234,326735,24,620,Graduate,No,Approved
+98,421932,73059,48,536,Graduate,No,Approved
+99,706016,617044,24,379,Graduate,No,Rejected
+100,1347207,169444,48,374,Not Graduate,No,Rejected
